@@ -14,14 +14,14 @@
   <slot />
   <div class="flex flex-col justify-end gap-4 items-center">
     <div
-      class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
+      class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
     >
       <a href={step.siteLink} target="_blank">
         <p class="relative z-40">Go to Site&rarr;</p>
       </a>
     </div>
     <div
-      class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
+      class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
     >
       <a href={step.repoLink} target="_blank">
         <p class="relative z-40">Go to GitHub Repo&rarr;</p>
