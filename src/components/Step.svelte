@@ -12,7 +12,7 @@
   </div>
   <h3 class="font-medium text-xl sm:text-2xl md:text-3xl">{step.name}</h3>
   <slot />
-  <div class="flex flex-col justify-end gap-4 items-center">
+  <div class="flex flex-col justify-end gap-4 items-end">
     <div
       class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden"
     >
