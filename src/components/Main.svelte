@@ -88,7 +88,7 @@
         A few of my software development endeavors,
       </h6>
       <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-        Curious to <span class="poppins text-violet-400">see</span> my recent works?
+        Curious to <span class="poppins text-violet-400">see</span> my works?
       </h3>
     </div>
     <a
