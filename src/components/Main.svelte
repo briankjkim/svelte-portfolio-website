@@ -59,8 +59,8 @@
         <span class="poppins text-violet-400">Developer</span>
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
-        My <span class="text-violet-400">favourite tech</span> includes React, Next.JS,
-        Strapi, TaildwindCSS, Node.js + Express.js & PostgreSQL or Firebase!
+        My <span class="text-violet-400">favourite tech</span> are React, Next.JS,
+        Strapi, TaildwindCSS, Node.js + Express.js, Prisma, and Firebase!
       </p>
       <a
         class="blueShadow mx-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer"
