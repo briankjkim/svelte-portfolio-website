@@ -20,6 +20,25 @@
       siteLink: "https://terratap-oden-client-v2.web.app/",
       repoLink: "https://github.com/OpendataDeveloperNetwork/ODEN-Client/",
     },
+    {
+      name: "RestStop Vancity",
+      icon: "fa-solid fa-restroom",
+      siteLink:
+        "http://ec2-3-96-16-60.ca-central-1.compute.amazonaws.com:3000/",
+      repoLink: "https://github.com/briankjkim/RestStop_Vancity_Project",
+    },
+    {
+      name: "Redact Pii",
+      icon: "fa-solid fa-eraser",
+      siteLink: "https://redact-phi.vercel.app/",
+      repoLink: "https://github.com/briankjkim/redact-phi",
+    },
+    {
+      name: "Admin Dashboard",
+      icon: "fa-solid fa-chart-line",
+      siteLink: "https://react-admin-dashboard-nine-rouge.vercel.app/",
+      repoLink: "https://github.com/briankjkim/react_admin_dashboard",
+    },
   ];
 
   let benefits = [
@@ -99,22 +118,22 @@
       <i class="fa-regular fa-circle-play"></i>
       <p>Go To GitHub</p>
     </a>
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
+    <div class="grid grid-cols-1 gap-12 lg:grid-cols-3 lg:gap-10">
       <Step step={steps[0]}>
         <strong class="text-violet-400"
           >React, TypeScript, Next.JS, Strapi, PostgreSQL, OpenAI, ShadCN UI</strong
         >
-        Summarize AI is a full-stack web application that summarizes the content
-        of YouTube videos into concise and organized texts. Save your summaries and
-        access them anytime!
+        Summarize AI is a web application that summarizes the content of YouTube
+        videos into concise and organized texts. Save your summaries and access them
+        anytime!
       </Step>
       <Step step={steps[1]}>
         <strong class="text-violet-400"
           >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
         >
-        Tes.ai is a full-stack web application that provides ChatGPT-like conversations
-        between the user and the application’s AI engine, where the AI engine aims
-        to mimic the characteristics of Ancient Greek Philosophers, such as Socrates.
+        Tes.ai is a web application that provides ChatGPT-like conversations between
+        the user and the application’s AI engine, where the AI engine aims to mimic
+        the characteristics of Ancient Greek Philosophers, such as Socrates.
       </Step>
       <Step step={steps[2]}>
         <strong class="text-violet-400"
@@ -123,6 +142,30 @@
         Open Data Development Network (ODEN) is an open-source initiative aimed at
         streamlining developers' access to open data by consolidating scattered datasets
         from various cities into a centralized platform.
+      </Step>
+      <Step step={steps[3]}>
+        <strong class="text-violet-400"
+          >React, NextJS, TailwindCSS, Open Data Portal, Docker
+        </strong>
+        RestStop Vancity is an open source independent project that provides nearby
+        public washroom locations to the client by utilizing Open Data Portal API
+        from municipalities in Lower Mainland.
+      </Step>
+      <Step step={steps[4]}>
+        <strong class="text-violet-400"
+          >React, NextJS, TailwindCSS, ShadCN UI, OctoAI
+        </strong>
+        Redact PHI is a document PHI redaction application that automatically redacts
+        Personal Health Information (PHI) from the user's uploaded document. It also
+        has an experimental feature where the user has an option to use a Gen AI
+        service for redaction.
+      </Step>
+      <Step step={steps[5]}>
+        <strong class="text-violet-400"
+          >React, NextJS, TailwindCSS, NextAuth, Tremor, Prisma
+        </strong>
+        React Admin Dashboard is a sample dashboard application that utilizes Tremor
+        to display charts and NextAuth for authentication.
       </Step>
     </div>
   </section>
