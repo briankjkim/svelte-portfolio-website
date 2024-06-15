@@ -9,13 +9,19 @@
       repoLink: "https://github.com/briankjkim/youtube_ai_summarizer/",
     },
     {
+      name: "Redact Pii",
+      icon: "fa-solid fa-eraser",
+      siteLink: "https://redact-phi.vercel.app/",
+      repoLink: "https://github.com/briankjkim/redact-phi",
+    },
+    {
       name: "Tes.ai-GPT",
       icon: "fa-solid fa-atom",
       siteLink: "https://mern-ai-chatbot-client.vercel.app/",
       repoLink: "https://github.com/briankjkim/MERN-AI-Chatbot/",
     },
     {
-      name: "ODEN: Open-data DevEloper Network",
+      name: "ODEN",
       icon: "fa-solid fa-globe",
       siteLink: "https://terratap-oden-client-v2.web.app/",
       repoLink: "https://github.com/OpendataDeveloperNetwork/ODEN-Client/",
@@ -26,12 +32,6 @@
       siteLink:
         "http://ec2-3-96-16-60.ca-central-1.compute.amazonaws.com:3000/",
       repoLink: "https://github.com/briankjkim/RestStop_Vancity_Project",
-    },
-    {
-      name: "Redact Pii",
-      icon: "fa-solid fa-eraser",
-      siteLink: "https://redact-phi.vercel.app/",
-      repoLink: "https://github.com/briankjkim/redact-phi",
     },
     {
       name: "Admin Dashboard",
@@ -129,11 +129,12 @@
       </Step>
       <Step step={steps[1]}>
         <strong class="text-violet-400"
-          >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
-        >
-        Tes.ai is a web application that provides ChatGPT-like conversations between
-        the user and the application’s AI engine, where the AI engine aims to mimic
-        the characteristics of Ancient Greek Philosophers, such as Socrates.
+          >React, NextJS, TailwindCSS, ShadCN UI, OctoAI
+        </strong>
+        Redact PHI is a document PHI redaction application that automatically redacts
+        Personal Health Information (PHI) from the user's uploaded document. It also
+        has an experimental feature where the user has an option to use a Gen AI
+        service for redaction.
       </Step>
       <Step step={steps[2]}>
         <strong class="text-violet-400"
@@ -153,12 +154,11 @@
       </Step>
       <Step step={steps[4]}>
         <strong class="text-violet-400"
-          >React, NextJS, TailwindCSS, ShadCN UI, OctoAI
-        </strong>
-        Redact PHI is a document PHI redaction application that automatically redacts
-        Personal Health Information (PHI) from the user's uploaded document. It also
-        has an experimental feature where the user has an option to use a Gen AI
-        service for redaction.
+          >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
+        >
+        Tes.ai is a web application that provides ChatGPT-like conversations between
+        the user and the application’s AI engine, where the AI engine aims to mimic
+        the characteristics of Ancient Greek Philosophers, such as Socrates.
       </Step>
       <Step step={steps[5]}>
         <strong class="text-violet-400"
