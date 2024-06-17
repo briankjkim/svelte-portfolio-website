@@ -138,27 +138,27 @@
       </Step>
       <Step step={steps[2]}>
         <strong class="text-violet-400"
+          >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
+        >
+        Tes.ai is a web application that provides ChatGPT-like conversations between
+        the user and the application’s AI engine, where the AI engine aims to mimic
+        the characteristics of Ancient Greek Philosophers, such as Socrates.
+      </Step>
+      <Step step={steps[3]}>
+        <strong class="text-violet-400"
           >React, MongoDB, Google Firebase, Node.js + Express.js
         </strong>
         Open Data Development Network (ODEN) is an open-source initiative aimed at
         streamlining developers' access to open data by consolidating scattered datasets
         from various cities into a centralized platform.
       </Step>
-      <Step step={steps[3]}>
+      <Step step={steps[4]}>
         <strong class="text-violet-400"
           >React, NextJS, TailwindCSS, Open Data Portal, Docker
         </strong>
         RestStop Vancity is an open source independent project that provides nearby
         public washroom locations to the client by utilizing Open Data Portal API
         from municipalities in Lower Mainland.
-      </Step>
-      <Step step={steps[4]}>
-        <strong class="text-violet-400"
-          >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
-        >
-        Tes.ai is a web application that provides ChatGPT-like conversations between
-        the user and the application’s AI engine, where the AI engine aims to mimic
-        the characteristics of Ancient Greek Philosophers, such as Socrates.
       </Step>
       <Step step={steps[5]}>
         <strong class="text-violet-400"
