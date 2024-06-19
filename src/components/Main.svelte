@@ -27,10 +27,9 @@
       repoLink: "https://github.com/OpendataDeveloperNetwork/ODEN-Client/",
     },
     {
-      name: "RestStop Vancity",
+      name: "Washroom Finder",
       icon: "fa-solid fa-restroom",
-      siteLink:
-        "http://ec2-3-96-16-60.ca-central-1.compute.amazonaws.com:3000/",
+      siteLink: "https://www.washroomfinder.info/",
       repoLink: "https://github.com/briankjkim/RestStop_Vancity_Project",
     },
     {
@@ -156,7 +155,7 @@
         <strong class="text-violet-400"
           >React, NextJS, TailwindCSS, Open Data Portal, Docker
         </strong>
-        RestStop Vancity is an open source independent project that provides nearby
+        Washroom Finder is an open source independent project that provides nearby
         public washroom locations to the client by utilizing Open Data Portal API
         from municipalities in Lower Mainland.
       </Step>
