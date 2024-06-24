@@ -130,10 +130,10 @@
         <strong class="text-violet-400"
           >React, NextJS, TailwindCSS, ShadCN UI, OctoAI
         </strong>
-        Redact PHI is a document PHI redaction application that automatically redacts
-        Personal Health Information (PHI) from the user's uploaded document. It also
-        has an experimental feature where the user has an option to use a Gen AI
-        service for redaction.
+        Redact PHI is a document redaction application that automatically redacts
+        Personal Health Information (PHI) from the user's uploaded document. It has
+        an experimental feature where the user has an option to use a Gen AI service
+        for redaction, using Mixtral 8x22B engine.
       </Step>
       <Step step={steps[2]}>
         <strong class="text-violet-400"
