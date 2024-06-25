@@ -5,7 +5,19 @@
     Connect with me &darr;
   </p>
   <div class="flex flex-col gap-4 items-center justify-center">
-    <p><b class="pr-2">Email:</b> kkjin0330@gmail.com</p>
+    <p><b class="pr-2">Email:</b> kynd.b.tech@gmail.com</p>
+    <p>
+      <b class="pr-2">X/Twitter:</b>
+      <a class="text-violet-400" target="_blank" href="https://x.com/kynd_b"
+        >@kynd_b<sup
+          ><span class="text-xs scale-75 pl-0.5"
+            ><i
+              class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
+            ></i></span
+          ></sup
+        ></a
+      >
+    </p>
     <p>
       <b class="pr-2">GitHub:</b>
       <a
