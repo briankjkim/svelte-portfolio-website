@@ -15,10 +15,10 @@
       repoLink: "https://github.com/briankjkim/redact-phi",
     },
     {
-      name: "Tes.ai-GPT",
+      name: "Bookwise",
       icon: "fa-solid fa-atom",
-      siteLink: "https://mern-ai-chatbot-client.vercel.app/",
-      repoLink: "https://github.com/briankjkim/MERN-AI-Chatbot/",
+      siteLink: "https://portfolio-library-sand.vercel.app",
+      repoLink: "https://github.com/briankjkim/library",
     },
     {
       name: "ODEN",
@@ -137,11 +137,13 @@
       </Step>
       <Step step={steps[2]}>
         <strong class="text-violet-400"
-          >React, TypeScript, Node.js + Express.js, MongoDB (MERN)</strong
-        >
-        Tes.ai is a web application that provides ChatGPT-like conversations between
-        the user and the application’s AI engine, where the AI engine aims to mimic
-        the characteristics of Ancient Greek Philosophers, such as Socrates.
+          >Next.js, PostgreSQL, Upstash, ImageKit, TypeScript, Resend, Tailwind
+          CSS
+        </strong>
+        Bookwise is a web library management application that streamlines the borrowing
+        process with features like reminders and receipts. It includes a public-facing
+        app and an admin interface, and offers robust user management and automated
+        workflows.
       </Step>
       <Step step={steps[3]}>
         <strong class="text-violet-400"
